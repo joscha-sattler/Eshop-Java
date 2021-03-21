@@ -1,0 +1,48 @@
+Ananas
+6789
+44.44
+479
+1
+ist auf Lager
+Apfel
+5543
+0.5
+321
+20
+ist auf Lager
+Bier
+9000
+17.0
+346
+1
+ist auf Lager
+Schlagzeug
+6677
+500.0
+230
+1
+ist auf Lager
+Trompete
+9988
+55.55
+1244
+1
+ist auf Lager
+Zebra
+40044
+13.77
+236
+1
+ist auf Lager
+Trommel
+123412
+19.99
+45345
+1
+ist auf Lager
+Klavier
+5668
+1249.99
+257
+1
+ist auf Lager
